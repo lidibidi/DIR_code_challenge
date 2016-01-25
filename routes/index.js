@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 var siteData = {
-  title: 'GA Survey',
+  title: 'Task Management Survey',
   version: '1.0.0',
   authors: 'Lidia Santos'
 };
