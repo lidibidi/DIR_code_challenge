@@ -51,12 +51,12 @@ run `npm install`
 Step 4
 
 
-run `mongod` or `sudo mongod`
+`command + t` and run `mongod` or `sudo mongod` in new terminal tab
 
 Step 4
 
 
-run `npm start` or `nodemon`
+go back to original terminal tab and hit `command + t` then `npm start` or `nodemon` in that new tab
 
 Step 5
 
