@@ -60,5 +60,7 @@ run `npm start` or `nodemon`
 
 Step 5
 
-In your Browser navigate to http://localhost:3000/ and answer the questions! :smile:
+* In your Browser navigate to http://localhost:3000/ and answer the questions! :smile:
 
+
+* To see responses go to http://localhost:3000/survey/responses
